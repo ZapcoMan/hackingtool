@@ -230,3 +230,5 @@ uv.lock
 
 # macOS Finder metadata
 .DS_Store
+/.githooks/
+/.github/
